@@ -6,7 +6,7 @@ node_modules
 /tests/**/build
 /tests/**/dist
 /tests/**/node_modules
-/.svelte-kit
+.svelte-kit
 /package
 .env
 .env.*
